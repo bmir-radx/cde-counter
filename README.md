@@ -5,3 +5,5 @@ This script counts variables used by each study as listed in the RADx Data Hub v
 ```bash
 python count_cdes.py -i variable-report.xlsx -o counts.csv
 ```
+
+Variable reports of the expected format can be downloaded from the [variables catalog](https://radxdatahub.nih.gov/variablesCatalog) at the RADx Data Hub.
